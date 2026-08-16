@@ -1,1 +1,1 @@
-<img width="500px" src="https://chimerical-stroopwafel-101dd2.netlify.app/api/tiktok/widget/?description=true&small=false&stats=true&videoPartAnim=false"/>
+<img width="500px" src="https://tik-tok-widget-three.vercel.app/api/tiktok/widget/?description=false&small=false&stats=false&videoPartAnim=false"/>
